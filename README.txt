@@ -53,8 +53,8 @@ main: input text file is read and outputs calculated and output text file is cre
 /////////////////// COMPILING AND RUNNING ///////////////////////
 
 Can use any IDE to compile and run the program.
--> Unzip the folder named Hamvir_EE2204M0089.
+-> Download the repo.
 -> Create your "own input_data.txt" file in the same folder where "main_file.cpp" is present( or copy it from sample_inputs_outputs folder). 
 -> Check the input formats to avoid errors.
--> open the main_file.cpp in any cpp IDE(preferred eclipse IDE) and build it and then run it.
+-> open the main_file.cpp in any cpp IDE(preferred g++) and compile it and then run it.
 -> The output file will be generated and saved in the current folder in the name "output.txt".
