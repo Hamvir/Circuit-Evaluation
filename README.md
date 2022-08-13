@@ -9,3 +9,5 @@ The goal is to print out the values that will be obtained at each net in the cir
 >Gates are given unique identifiers such as U0, U1 etc. (these could be strings in general)
 
 >The possible types of gates are: NOT, AND2, OR2, NAND2, NOR2, XOR2, XNOR2, NAND3 and NOR3. For example, in the above circuit: U1 is of type XNOR2 (2-input XNOR gate), while U2 is of type NOR3 (3-input NOR gate).
+
+Refer to readme.txt for further running the code and how to use it.
