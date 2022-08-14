@@ -58,3 +58,4 @@ Can use any IDE to compile and run the program.
 -> Check the input formats to avoid errors.
 -> open the main_file.cpp in any cpp IDE(preferred g++) and compile it and then run it.
 -> The output file will be generated and saved in the current folder in the name "output.txt".
+-> Your IDE may not recognise "bits/stdc++" header used in that case comment it and uncomment all the rest headers commented.
